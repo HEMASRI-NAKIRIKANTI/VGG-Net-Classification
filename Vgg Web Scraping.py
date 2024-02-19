@@ -37,8 +37,6 @@ if not os.path.exists(folder_path):
 # Loop through each image element and download the image
 for i, image_element in enumerate(image_elements):
     img_element = image_element.find_element(By.TAG_NAME, 'img')
-    # Get the URL of the image
-    image_url = image_element.get_attribute('src')
     # Get the source (URL) of the image
     img_src = img_element.get_attribute('src')
     print(img_src)
