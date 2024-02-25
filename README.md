@@ -14,7 +14,7 @@ The dataset consists of images collected using a web scraping script written in 
 The dataset is organized into separate folders for each category. The folder structure is as follows as in datavgg
 
 # Image Classification using VGG16
-This project is an example of image classification using the VGG16 deep learning architecture. The dataset used for this task contains images of five classes: "Dog", "Elephant", "Flower", "Horse", and "Human". The task is to classify the images into these categories.
+This project is an example of image classification using the VGG16 deep learning architecture. The dataset used for this task contains images of five classes: "Dog", "Elephant", "Flower", "Horse", and "Human". The task is to classify the images into these categories .
 
 ## Environment Setup
 Python: 3.6 or above
